@@ -7,3 +7,5 @@ else:
     print("loop exhausted")
 if a<10:
     print("korangalagavn")
+elif a<10:
+    print("hanmant")
