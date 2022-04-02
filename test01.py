@@ -5,3 +5,5 @@ elif a<10:
     print("not hello")
 else:
     print("loop exhausted")
+else:
+    print("hello world")
